@@ -1,0 +1,15 @@
+C:\CDAC\workspaceC#\Assignment1\question18\bin\Debug\net6.0\question18.exe
+C:\CDAC\workspaceC#\Assignment1\question18\bin\Debug\net6.0\question18.deps.json
+C:\CDAC\workspaceC#\Assignment1\question18\bin\Debug\net6.0\question18.runtimeconfig.json
+C:\CDAC\workspaceC#\Assignment1\question18\bin\Debug\net6.0\question18.dll
+C:\CDAC\workspaceC#\Assignment1\question18\bin\Debug\net6.0\question18.pdb
+C:\CDAC\workspaceC#\Assignment1\question18\obj\Debug\net6.0\question18.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDAC\workspaceC#\Assignment1\question18\obj\Debug\net6.0\question18.AssemblyInfoInputs.cache
+C:\CDAC\workspaceC#\Assignment1\question18\obj\Debug\net6.0\question18.AssemblyInfo.cs
+C:\CDAC\workspaceC#\Assignment1\question18\obj\Debug\net6.0\question18.csproj.CoreCompileInputs.cache
+C:\CDAC\workspaceC#\Assignment1\question18\obj\Debug\net6.0\question18.sourcelink.json
+C:\CDAC\workspaceC#\Assignment1\question18\obj\Debug\net6.0\question18.dll
+C:\CDAC\workspaceC#\Assignment1\question18\obj\Debug\net6.0\refint\question18.dll
+C:\CDAC\workspaceC#\Assignment1\question18\obj\Debug\net6.0\question18.pdb
+C:\CDAC\workspaceC#\Assignment1\question18\obj\Debug\net6.0\question18.genruntimeconfig.cache
+C:\CDAC\workspaceC#\Assignment1\question18\obj\Debug\net6.0\ref\question18.dll
